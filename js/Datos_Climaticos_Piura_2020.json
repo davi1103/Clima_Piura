@@ -1,0 +1,2216 @@
+[
+    {
+        "Fecha": "2020-01-01",
+        "Temperatura (\u00b0C)": 26.5,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 50
+    },
+    {
+        "Fecha": "2020-01-02",
+        "Temperatura (\u00b0C)": 25.2,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 59
+    },
+    {
+        "Fecha": "2020-01-03",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 92
+    },
+    {
+        "Fecha": "2020-01-04",
+        "Temperatura (\u00b0C)": 27.0,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 18
+    },
+    {
+        "Fecha": "2020-01-05",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 48
+    },
+    {
+        "Fecha": "2020-01-06",
+        "Temperatura (\u00b0C)": 27.3,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 10
+    },
+    {
+        "Fecha": "2020-01-07",
+        "Temperatura (\u00b0C)": 27.2,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 77
+    },
+    {
+        "Fecha": "2020-01-08",
+        "Temperatura (\u00b0C)": 28.3,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 66
+    },
+    {
+        "Fecha": "2020-01-09",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 93
+    },
+    {
+        "Fecha": "2020-01-10",
+        "Temperatura (\u00b0C)": 27.3,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 30
+    },
+    {
+        "Fecha": "2020-01-11",
+        "Temperatura (\u00b0C)": 27.2,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 44
+    },
+    {
+        "Fecha": "2020-01-12",
+        "Temperatura (\u00b0C)": 28.3,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 45
+    },
+    {
+        "Fecha": "2020-01-13",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 59
+    },
+    {
+        "Fecha": "2020-01-14",
+        "Temperatura (\u00b0C)": 26.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 33
+    },
+    {
+        "Fecha": "2020-01-15",
+        "Temperatura (\u00b0C)": 26.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 69
+    },
+    {
+        "Fecha": "2020-01-16",
+        "Temperatura (\u00b0C)": 28.3,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 91
+    },
+    {
+        "Fecha": "2020-01-17",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 11
+    },
+    {
+        "Fecha": "2020-01-18",
+        "Temperatura (\u00b0C)": 26.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 56
+    },
+    {
+        "Fecha": "2020-01-19",
+        "Temperatura (\u00b0C)": 27.2,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 48
+    },
+    {
+        "Fecha": "2020-01-20",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 18
+    },
+    {
+        "Fecha": "2020-01-21",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 60
+    },
+    {
+        "Fecha": "2020-01-22",
+        "Temperatura (\u00b0C)": 27.2,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 92
+    },
+    {
+        "Fecha": "2020-01-23",
+        "Temperatura (\u00b0C)": 28.3,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 94
+    },
+    {
+        "Fecha": "2020-01-24",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 27
+    },
+    {
+        "Fecha": "2020-01-25",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 93
+    },
+    {
+        "Fecha": "2020-01-26",
+        "Temperatura (\u00b0C)": 26.4,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 20
+    },
+    {
+        "Fecha": "2020-01-27",
+        "Temperatura (\u00b0C)": 27.3,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 96
+    },
+    {
+        "Fecha": "2020-01-28",
+        "Temperatura (\u00b0C)": 27.1,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 41
+    },
+    {
+        "Fecha": "2020-01-29",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 65
+    },
+    {
+        "Fecha": "2020-01-30",
+        "Temperatura (\u00b0C)": 27.9,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 77
+    },
+    {
+        "Fecha": "2020-01-31",
+        "Temperatura (\u00b0C)": 27.2,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 83
+    },
+    {
+        "Fecha": "2020-02-01",
+        "Temperatura (\u00b0C)": 28.3,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 97
+    },
+    {
+        "Fecha": "2020-02-02",
+        "Temperatura (\u00b0C)": 27.7,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 94
+    },
+    {
+        "Fecha": "2020-02-03",
+        "Temperatura (\u00b0C)": 28.3,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 84
+    },
+    {
+        "Fecha": "2020-02-04",
+        "Temperatura (\u00b0C)": 27.0,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 8
+    },
+    {
+        "Fecha": "2020-02-05",
+        "Temperatura (\u00b0C)": 26.9,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 17
+    },
+    {
+        "Fecha": "2020-02-06",
+        "Temperatura (\u00b0C)": 28.1,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 84
+    },
+    {
+        "Fecha": "2020-02-07",
+        "Temperatura (\u00b0C)": 28.6,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 23
+    },
+    {
+        "Fecha": "2020-02-08",
+        "Temperatura (\u00b0C)": 27.9,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 77
+    },
+    {
+        "Fecha": "2020-02-09",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 69
+    },
+    {
+        "Fecha": "2020-02-10",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 52
+    },
+    {
+        "Fecha": "2020-02-11",
+        "Temperatura (\u00b0C)": 27.9,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 78
+    },
+    {
+        "Fecha": "2020-02-12",
+        "Temperatura (\u00b0C)": 28.9,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 38
+    },
+    {
+        "Fecha": "2020-02-13",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 47
+    },
+    {
+        "Fecha": "2020-02-14",
+        "Temperatura (\u00b0C)": 29.0,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 42
+    },
+    {
+        "Fecha": "2020-02-15",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 43
+    },
+    {
+        "Fecha": "2020-02-16",
+        "Temperatura (\u00b0C)": 27.7,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 88
+    },
+    {
+        "Fecha": "2020-02-17",
+        "Temperatura (\u00b0C)": 27.5,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 25
+    },
+    {
+        "Fecha": "2020-02-18",
+        "Temperatura (\u00b0C)": 27.9,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 13
+    },
+    {
+        "Fecha": "2020-02-19",
+        "Temperatura (\u00b0C)": 28.1,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 34
+    },
+    {
+        "Fecha": "2020-02-20",
+        "Temperatura (\u00b0C)": 27.6,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 61
+    },
+    {
+        "Fecha": "2020-02-21",
+        "Temperatura (\u00b0C)": 28.5,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 28
+    },
+    {
+        "Fecha": "2020-02-22",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 89
+    },
+    {
+        "Fecha": "2020-02-23",
+        "Temperatura (\u00b0C)": 28.8,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 53
+    },
+    {
+        "Fecha": "2020-02-24",
+        "Temperatura (\u00b0C)": 28.3,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 80
+    },
+    {
+        "Fecha": "2020-02-25",
+        "Temperatura (\u00b0C)": 28.2,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 28
+    },
+    {
+        "Fecha": "2020-02-26",
+        "Temperatura (\u00b0C)": 28.7,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 92
+    },
+    {
+        "Fecha": "2020-02-27",
+        "Temperatura (\u00b0C)": 28.9,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 14
+    },
+    {
+        "Fecha": "2020-02-28",
+        "Temperatura (\u00b0C)": 28.9,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 53
+    },
+    {
+        "Fecha": "2020-02-29",
+        "Temperatura (\u00b0C)": 28.7,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 3
+    },
+    {
+        "Fecha": "2020-03-01",
+        "Temperatura (\u00b0C)": 28.6,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 100
+    },
+    {
+        "Fecha": "2020-03-02",
+        "Temperatura (\u00b0C)": 27.9,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 76
+    },
+    {
+        "Fecha": "2020-03-03",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 37
+    },
+    {
+        "Fecha": "2020-03-04",
+        "Temperatura (\u00b0C)": 27.9,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 46
+    },
+    {
+        "Fecha": "2020-03-05",
+        "Temperatura (\u00b0C)": 28.1,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 67
+    },
+    {
+        "Fecha": "2020-03-06",
+        "Temperatura (\u00b0C)": 27.6,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 17
+    },
+    {
+        "Fecha": "2020-03-07",
+        "Temperatura (\u00b0C)": 28.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 47
+    },
+    {
+        "Fecha": "2020-03-08",
+        "Temperatura (\u00b0C)": 28.9,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 73
+    },
+    {
+        "Fecha": "2020-03-09",
+        "Temperatura (\u00b0C)": 28.8,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 69
+    },
+    {
+        "Fecha": "2020-03-10",
+        "Temperatura (\u00b0C)": 28.3,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 69
+    },
+    {
+        "Fecha": "2020-03-11",
+        "Temperatura (\u00b0C)": 28.2,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 69
+    },
+    {
+        "Fecha": "2020-03-12",
+        "Temperatura (\u00b0C)": 28.0,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 23
+    },
+    {
+        "Fecha": "2020-03-13",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 7
+    },
+    {
+        "Fecha": "2020-03-14",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 55
+    },
+    {
+        "Fecha": "2020-03-15",
+        "Temperatura (\u00b0C)": 26.5,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 35
+    },
+    {
+        "Fecha": "2020-03-16",
+        "Temperatura (\u00b0C)": 26.9,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 58
+    },
+    {
+        "Fecha": "2020-03-17",
+        "Temperatura (\u00b0C)": 28.2,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 32
+    },
+    {
+        "Fecha": "2020-03-18",
+        "Temperatura (\u00b0C)": 27.3,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 39
+    },
+    {
+        "Fecha": "2020-03-19",
+        "Temperatura (\u00b0C)": 27.2,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 88
+    },
+    {
+        "Fecha": "2020-03-20",
+        "Temperatura (\u00b0C)": 29.0,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 43
+    },
+    {
+        "Fecha": "2020-03-21",
+        "Temperatura (\u00b0C)": 28.3,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 40
+    },
+    {
+        "Fecha": "2020-03-22",
+        "Temperatura (\u00b0C)": 29.0,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 90
+    },
+    {
+        "Fecha": "2020-03-23",
+        "Temperatura (\u00b0C)": 29.0,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 36
+    },
+    {
+        "Fecha": "2020-03-24",
+        "Temperatura (\u00b0C)": 29.3,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 2
+    },
+    {
+        "Fecha": "2020-03-25",
+        "Temperatura (\u00b0C)": 28.1,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 9
+    },
+    {
+        "Fecha": "2020-03-26",
+        "Temperatura (\u00b0C)": 28.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 8
+    },
+    {
+        "Fecha": "2020-03-27",
+        "Temperatura (\u00b0C)": 29.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 100
+    },
+    {
+        "Fecha": "2020-03-28",
+        "Temperatura (\u00b0C)": 30.0,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 24
+    },
+    {
+        "Fecha": "2020-03-29",
+        "Temperatura (\u00b0C)": 27.1,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 35
+    },
+    {
+        "Fecha": "2020-03-30",
+        "Temperatura (\u00b0C)": 28.6,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 21
+    },
+    {
+        "Fecha": "2020-03-31",
+        "Temperatura (\u00b0C)": 29.8,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 81
+    },
+    {
+        "Fecha": "2020-04-01",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 57
+    },
+    {
+        "Fecha": "2020-04-02",
+        "Temperatura (\u00b0C)": 26.7,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 20
+    },
+    {
+        "Fecha": "2020-04-03",
+        "Temperatura (\u00b0C)": 27.8,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 55
+    },
+    {
+        "Fecha": "2020-04-04",
+        "Temperatura (\u00b0C)": 27.9,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 71
+    },
+    {
+        "Fecha": "2020-04-05",
+        "Temperatura (\u00b0C)": 26.6,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 41
+    },
+    {
+        "Fecha": "2020-04-06",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 48
+    },
+    {
+        "Fecha": "2020-04-07",
+        "Temperatura (\u00b0C)": 27.7,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 75
+    },
+    {
+        "Fecha": "2020-04-08",
+        "Temperatura (\u00b0C)": 28.0,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 83
+    },
+    {
+        "Fecha": "2020-04-09",
+        "Temperatura (\u00b0C)": 27.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 39
+    },
+    {
+        "Fecha": "2020-04-10",
+        "Temperatura (\u00b0C)": 26.6,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 43
+    },
+    {
+        "Fecha": "2020-04-11",
+        "Temperatura (\u00b0C)": 25.6,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 42
+    },
+    {
+        "Fecha": "2020-04-12",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 36
+    },
+    {
+        "Fecha": "2020-04-13",
+        "Temperatura (\u00b0C)": 27.7,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 37
+    },
+    {
+        "Fecha": "2020-04-14",
+        "Temperatura (\u00b0C)": 27.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 60
+    },
+    {
+        "Fecha": "2020-04-15",
+        "Temperatura (\u00b0C)": 27.3,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 3
+    },
+    {
+        "Fecha": "2020-04-16",
+        "Temperatura (\u00b0C)": 27.2,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 89
+    },
+    {
+        "Fecha": "2020-04-17",
+        "Temperatura (\u00b0C)": 28.3,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 86
+    },
+    {
+        "Fecha": "2020-04-18",
+        "Temperatura (\u00b0C)": 28.3,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 39
+    },
+    {
+        "Fecha": "2020-04-19",
+        "Temperatura (\u00b0C)": 27.3,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 68
+    },
+    {
+        "Fecha": "2020-04-20",
+        "Temperatura (\u00b0C)": 27.2,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 94
+    },
+    {
+        "Fecha": "2020-04-21",
+        "Temperatura (\u00b0C)": 27.4,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 86
+    },
+    {
+        "Fecha": "2020-04-22",
+        "Temperatura (\u00b0C)": 26.6,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 88
+    },
+    {
+        "Fecha": "2020-04-23",
+        "Temperatura (\u00b0C)": 27.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 1
+    },
+    {
+        "Fecha": "2020-04-24",
+        "Temperatura (\u00b0C)": 27.3,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 55
+    },
+    {
+        "Fecha": "2020-04-25",
+        "Temperatura (\u00b0C)": 27.2,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 14
+    },
+    {
+        "Fecha": "2020-04-26",
+        "Temperatura (\u00b0C)": 27.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 15
+    },
+    {
+        "Fecha": "2020-04-27",
+        "Temperatura (\u00b0C)": 26.6,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 95
+    },
+    {
+        "Fecha": "2020-04-28",
+        "Temperatura (\u00b0C)": 27.2,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 66
+    },
+    {
+        "Fecha": "2020-04-29",
+        "Temperatura (\u00b0C)": 27.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 14
+    },
+    {
+        "Fecha": "2020-04-30",
+        "Temperatura (\u00b0C)": 26.6,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 38
+    },
+    {
+        "Fecha": "2020-05-01",
+        "Temperatura (\u00b0C)": 27.3,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 33
+    },
+    {
+        "Fecha": "2020-05-02",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 53
+    },
+    {
+        "Fecha": "2020-05-03",
+        "Temperatura (\u00b0C)": 27.3,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 33
+    },
+    {
+        "Fecha": "2020-05-04",
+        "Temperatura (\u00b0C)": 27.2,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 40
+    },
+    {
+        "Fecha": "2020-05-05",
+        "Temperatura (\u00b0C)": 27.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 32
+    },
+    {
+        "Fecha": "2020-05-06",
+        "Temperatura (\u00b0C)": 27.4,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 51
+    },
+    {
+        "Fecha": "2020-05-07",
+        "Temperatura (\u00b0C)": 27.4,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 97
+    },
+    {
+        "Fecha": "2020-05-08",
+        "Temperatura (\u00b0C)": 26.6,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 41
+    },
+    {
+        "Fecha": "2020-05-09",
+        "Temperatura (\u00b0C)": 27.2,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 12
+    },
+    {
+        "Fecha": "2020-05-10",
+        "Temperatura (\u00b0C)": 23.0,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 94
+    },
+    {
+        "Fecha": "2020-05-11",
+        "Temperatura (\u00b0C)": 23.7,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 14
+    },
+    {
+        "Fecha": "2020-05-12",
+        "Temperatura (\u00b0C)": 27.2,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 85
+    },
+    {
+        "Fecha": "2020-05-13",
+        "Temperatura (\u00b0C)": 23.7,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 55
+    },
+    {
+        "Fecha": "2020-05-14",
+        "Temperatura (\u00b0C)": 27.2,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 39
+    },
+    {
+        "Fecha": "2020-05-15",
+        "Temperatura (\u00b0C)": 27.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 15
+    },
+    {
+        "Fecha": "2020-05-16",
+        "Temperatura (\u00b0C)": 26.6,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 12
+    },
+    {
+        "Fecha": "2020-05-17",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 8
+    },
+    {
+        "Fecha": "2020-05-18",
+        "Temperatura (\u00b0C)": 25.7,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 60
+    },
+    {
+        "Fecha": "2020-05-19",
+        "Temperatura (\u00b0C)": 23.5,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 17
+    },
+    {
+        "Fecha": "2020-05-20",
+        "Temperatura (\u00b0C)": 24.7,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 25
+    },
+    {
+        "Fecha": "2020-05-21",
+        "Temperatura (\u00b0C)": 24.6,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 65
+    },
+    {
+        "Fecha": "2020-05-22",
+        "Temperatura (\u00b0C)": 25.7,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 62
+    },
+    {
+        "Fecha": "2020-05-23",
+        "Temperatura (\u00b0C)": 23.7,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 17
+    },
+    {
+        "Fecha": "2020-05-24",
+        "Temperatura (\u00b0C)": 23.6,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 76
+    },
+    {
+        "Fecha": "2020-05-25",
+        "Temperatura (\u00b0C)": 25.7,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 21
+    },
+    {
+        "Fecha": "2020-05-26",
+        "Temperatura (\u00b0C)": 24.8,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 29
+    },
+    {
+        "Fecha": "2020-05-27",
+        "Temperatura (\u00b0C)": 26.7,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 18
+    },
+    {
+        "Fecha": "2020-05-28",
+        "Temperatura (\u00b0C)": 24.6,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 34
+    },
+    {
+        "Fecha": "2020-05-29",
+        "Temperatura (\u00b0C)": 24.6,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 37
+    },
+    {
+        "Fecha": "2020-05-30",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 55
+    },
+    {
+        "Fecha": "2020-05-31",
+        "Temperatura (\u00b0C)": 25.7,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 98
+    },
+    {
+        "Fecha": "2020-06-01",
+        "Temperatura (\u00b0C)": 23.9,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 49
+    },
+    {
+        "Fecha": "2020-06-02",
+        "Temperatura (\u00b0C)": 23.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 19
+    },
+    {
+        "Fecha": "2020-06-03",
+        "Temperatura (\u00b0C)": 24.5,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 17
+    },
+    {
+        "Fecha": "2020-06-04",
+        "Temperatura (\u00b0C)": 23.6,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 68
+    },
+    {
+        "Fecha": "2020-06-05",
+        "Temperatura (\u00b0C)": 24.2,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 86
+    },
+    {
+        "Fecha": "2020-06-06",
+        "Temperatura (\u00b0C)": 23.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 26
+    },
+    {
+        "Fecha": "2020-06-07",
+        "Temperatura (\u00b0C)": 23.9,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 45
+    },
+    {
+        "Fecha": "2020-06-08",
+        "Temperatura (\u00b0C)": 24.2,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 48
+    },
+    {
+        "Fecha": "2020-06-09",
+        "Temperatura (\u00b0C)": 23.5,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 74
+    },
+    {
+        "Fecha": "2020-06-10",
+        "Temperatura (\u00b0C)": 22.8,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 27
+    },
+    {
+        "Fecha": "2020-06-11",
+        "Temperatura (\u00b0C)": 23.6,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 26
+    },
+    {
+        "Fecha": "2020-06-12",
+        "Temperatura (\u00b0C)": 24.4,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 53
+    },
+    {
+        "Fecha": "2020-06-13",
+        "Temperatura (\u00b0C)": 24.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 90
+    },
+    {
+        "Fecha": "2020-06-14",
+        "Temperatura (\u00b0C)": 23.5,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 45
+    },
+    {
+        "Fecha": "2020-06-15",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 57
+    },
+    {
+        "Fecha": "2020-06-16",
+        "Temperatura (\u00b0C)": 21.5,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 4
+    },
+    {
+        "Fecha": "2020-06-17",
+        "Temperatura (\u00b0C)": 21.5,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 6
+    },
+    {
+        "Fecha": "2020-06-18",
+        "Temperatura (\u00b0C)": 23.6,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 91
+    },
+    {
+        "Fecha": "2020-06-19",
+        "Temperatura (\u00b0C)": 23.7,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 46
+    },
+    {
+        "Fecha": "2020-06-20",
+        "Temperatura (\u00b0C)": 23.5,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 3
+    },
+    {
+        "Fecha": "2020-06-21",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 4
+    },
+    {
+        "Fecha": "2020-06-22",
+        "Temperatura (\u00b0C)": 21.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 61
+    },
+    {
+        "Fecha": "2020-06-23",
+        "Temperatura (\u00b0C)": 21.5,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 66
+    },
+    {
+        "Fecha": "2020-06-24",
+        "Temperatura (\u00b0C)": 23.6,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 25
+    },
+    {
+        "Fecha": "2020-06-25",
+        "Temperatura (\u00b0C)": 23.2,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 3
+    },
+    {
+        "Fecha": "2020-06-26",
+        "Temperatura (\u00b0C)": 21.6,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 75
+    },
+    {
+        "Fecha": "2020-06-27",
+        "Temperatura (\u00b0C)": 22.0,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 88
+    },
+    {
+        "Fecha": "2020-06-28",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 59
+    },
+    {
+        "Fecha": "2020-06-29",
+        "Temperatura (\u00b0C)": 22.3,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 84
+    },
+    {
+        "Fecha": "2020-06-30",
+        "Temperatura (\u00b0C)": 21.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 22
+    },
+    {
+        "Fecha": "2020-07-01",
+        "Temperatura (\u00b0C)": 21.7,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 1
+    },
+    {
+        "Fecha": "2020-07-02",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 12
+    },
+    {
+        "Fecha": "2020-07-03",
+        "Temperatura (\u00b0C)": 22.7,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 75
+    },
+    {
+        "Fecha": "2020-07-04",
+        "Temperatura (\u00b0C)": 21.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 39
+    },
+    {
+        "Fecha": "2020-07-05",
+        "Temperatura (\u00b0C)": 21.5,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 86
+    },
+    {
+        "Fecha": "2020-07-06",
+        "Temperatura (\u00b0C)": 23.6,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 49
+    },
+    {
+        "Fecha": "2020-07-07",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 78
+    },
+    {
+        "Fecha": "2020-07-08",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 16
+    },
+    {
+        "Fecha": "2020-07-09",
+        "Temperatura (\u00b0C)": 21.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 64
+    },
+    {
+        "Fecha": "2020-07-10",
+        "Temperatura (\u00b0C)": 20.5,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 76
+    },
+    {
+        "Fecha": "2020-07-11",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 19
+    },
+    {
+        "Fecha": "2020-07-12",
+        "Temperatura (\u00b0C)": 21.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 17
+    },
+    {
+        "Fecha": "2020-07-13",
+        "Temperatura (\u00b0C)": 21.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 64
+    },
+    {
+        "Fecha": "2020-07-14",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 48
+    },
+    {
+        "Fecha": "2020-07-15",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 20
+    },
+    {
+        "Fecha": "2020-07-16",
+        "Temperatura (\u00b0C)": 21.1,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 65
+    },
+    {
+        "Fecha": "2020-07-17",
+        "Temperatura (\u00b0C)": 20.7,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 86
+    },
+    {
+        "Fecha": "2020-07-18",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 55
+    },
+    {
+        "Fecha": "2020-07-19",
+        "Temperatura (\u00b0C)": 20.1,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 80
+    },
+    {
+        "Fecha": "2020-07-20",
+        "Temperatura (\u00b0C)": 20.7,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 10
+    },
+    {
+        "Fecha": "2020-07-21",
+        "Temperatura (\u00b0C)": 20.4,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 67
+    },
+    {
+        "Fecha": "2020-07-22",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 36
+    },
+    {
+        "Fecha": "2020-07-23",
+        "Temperatura (\u00b0C)": 21.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 72
+    },
+    {
+        "Fecha": "2020-07-24",
+        "Temperatura (\u00b0C)": 21.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 92
+    },
+    {
+        "Fecha": "2020-07-25",
+        "Temperatura (\u00b0C)": 23.6,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 100
+    },
+    {
+        "Fecha": "2020-07-26",
+        "Temperatura (\u00b0C)": 23.2,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 63
+    },
+    {
+        "Fecha": "2020-07-27",
+        "Temperatura (\u00b0C)": 19.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 5
+    },
+    {
+        "Fecha": "2020-07-28",
+        "Temperatura (\u00b0C)": 20.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 89
+    },
+    {
+        "Fecha": "2020-07-29",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 89
+    },
+    {
+        "Fecha": "2020-07-30",
+        "Temperatura (\u00b0C)": 22.3,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 29
+    },
+    {
+        "Fecha": "2020-07-31",
+        "Temperatura (\u00b0C)": 21.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 68
+    },
+    {
+        "Fecha": "2020-08-01",
+        "Temperatura (\u00b0C)": 21.6,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 80
+    },
+    {
+        "Fecha": "2020-08-02",
+        "Temperatura (\u00b0C)": 20.8,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 7
+    },
+    {
+        "Fecha": "2020-08-03",
+        "Temperatura (\u00b0C)": 21.3,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 79
+    },
+    {
+        "Fecha": "2020-08-04",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 94
+    },
+    {
+        "Fecha": "2020-08-05",
+        "Temperatura (\u00b0C)": 21.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 91
+    },
+    {
+        "Fecha": "2020-08-06",
+        "Temperatura (\u00b0C)": 21.3,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 89
+    },
+    {
+        "Fecha": "2020-08-07",
+        "Temperatura (\u00b0C)": 21.6,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 10
+    },
+    {
+        "Fecha": "2020-08-08",
+        "Temperatura (\u00b0C)": 21.1,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 73
+    },
+    {
+        "Fecha": "2020-08-09",
+        "Temperatura (\u00b0C)": 20.6,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 15
+    },
+    {
+        "Fecha": "2020-08-10",
+        "Temperatura (\u00b0C)": 20.9,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 81
+    },
+    {
+        "Fecha": "2020-08-11",
+        "Temperatura (\u00b0C)": 21.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 68
+    },
+    {
+        "Fecha": "2020-08-12",
+        "Temperatura (\u00b0C)": 19.9,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 86
+    },
+    {
+        "Fecha": "2020-08-13",
+        "Temperatura (\u00b0C)": 21.5,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 6
+    },
+    {
+        "Fecha": "2020-08-14",
+        "Temperatura (\u00b0C)": 21.3,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 40
+    },
+    {
+        "Fecha": "2020-08-15",
+        "Temperatura (\u00b0C)": 21.6,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 41
+    },
+    {
+        "Fecha": "2020-08-16",
+        "Temperatura (\u00b0C)": 21.1,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 94
+    },
+    {
+        "Fecha": "2020-08-17",
+        "Temperatura (\u00b0C)": 20.4,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 38
+    },
+    {
+        "Fecha": "2020-08-18",
+        "Temperatura (\u00b0C)": 21.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 1
+    },
+    {
+        "Fecha": "2020-08-19",
+        "Temperatura (\u00b0C)": 21.3,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 41
+    },
+    {
+        "Fecha": "2020-08-20",
+        "Temperatura (\u00b0C)": 21.6,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 61
+    },
+    {
+        "Fecha": "2020-08-21",
+        "Temperatura (\u00b0C)": 20.3,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 51
+    },
+    {
+        "Fecha": "2020-08-22",
+        "Temperatura (\u00b0C)": 22.3,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 26
+    },
+    {
+        "Fecha": "2020-08-23",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 26
+    },
+    {
+        "Fecha": "2020-08-24",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 36
+    },
+    {
+        "Fecha": "2020-08-25",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 48
+    },
+    {
+        "Fecha": "2020-08-26",
+        "Temperatura (\u00b0C)": 22.3,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 59
+    },
+    {
+        "Fecha": "2020-08-27",
+        "Temperatura (\u00b0C)": 21.3,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 32
+    },
+    {
+        "Fecha": "2020-08-28",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 4
+    },
+    {
+        "Fecha": "2020-08-29",
+        "Temperatura (\u00b0C)": 22.3,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 43
+    },
+    {
+        "Fecha": "2020-08-30",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 48
+    },
+    {
+        "Fecha": "2020-08-31",
+        "Temperatura (\u00b0C)": 22.3,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 68
+    },
+    {
+        "Fecha": "2020-09-01",
+        "Temperatura (\u00b0C)": 23.2,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 6
+    },
+    {
+        "Fecha": "2020-09-02",
+        "Temperatura (\u00b0C)": 23.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 42
+    },
+    {
+        "Fecha": "2020-09-03",
+        "Temperatura (\u00b0C)": 23.2,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 65
+    },
+    {
+        "Fecha": "2020-09-04",
+        "Temperatura (\u00b0C)": 23.9,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 85
+    },
+    {
+        "Fecha": "2020-09-05",
+        "Temperatura (\u00b0C)": 23.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 91
+    },
+    {
+        "Fecha": "2020-09-06",
+        "Temperatura (\u00b0C)": 27.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 75
+    },
+    {
+        "Fecha": "2020-09-07",
+        "Temperatura (\u00b0C)": 26.6,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 8
+    },
+    {
+        "Fecha": "2020-09-08",
+        "Temperatura (\u00b0C)": 25.6,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 44
+    },
+    {
+        "Fecha": "2020-09-09",
+        "Temperatura (\u00b0C)": 26.1,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 21
+    },
+    {
+        "Fecha": "2020-09-10",
+        "Temperatura (\u00b0C)": 25.3,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 88
+    },
+    {
+        "Fecha": "2020-09-11",
+        "Temperatura (\u00b0C)": 25.7,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 62
+    },
+    {
+        "Fecha": "2020-09-12",
+        "Temperatura (\u00b0C)": 25.3,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 96
+    },
+    {
+        "Fecha": "2020-09-13",
+        "Temperatura (\u00b0C)": 25.7,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 2
+    },
+    {
+        "Fecha": "2020-09-14",
+        "Temperatura (\u00b0C)": 25.2,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 81
+    },
+    {
+        "Fecha": "2020-09-15",
+        "Temperatura (\u00b0C)": 24.2,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 64
+    },
+    {
+        "Fecha": "2020-09-16",
+        "Temperatura (\u00b0C)": 23.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 40
+    },
+    {
+        "Fecha": "2020-09-17",
+        "Temperatura (\u00b0C)": 22.8,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 32
+    },
+    {
+        "Fecha": "2020-09-18",
+        "Temperatura (\u00b0C)": 23.6,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 93
+    },
+    {
+        "Fecha": "2020-09-19",
+        "Temperatura (\u00b0C)": 24.4,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 41
+    },
+    {
+        "Fecha": "2020-09-20",
+        "Temperatura (\u00b0C)": 24.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 77
+    },
+    {
+        "Fecha": "2020-09-21",
+        "Temperatura (\u00b0C)": 23.5,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 19
+    },
+    {
+        "Fecha": "2020-09-22",
+        "Temperatura (\u00b0C)": 24.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 11
+    },
+    {
+        "Fecha": "2020-09-23",
+        "Temperatura (\u00b0C)": 24.4,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 17
+    },
+    {
+        "Fecha": "2020-09-24",
+        "Temperatura (\u00b0C)": 23.5,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 83
+    },
+    {
+        "Fecha": "2020-09-25",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 31
+    },
+    {
+        "Fecha": "2020-09-26",
+        "Temperatura (\u00b0C)": 22.8,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 95
+    },
+    {
+        "Fecha": "2020-09-27",
+        "Temperatura (\u00b0C)": 23.6,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 30
+    },
+    {
+        "Fecha": "2020-09-28",
+        "Temperatura (\u00b0C)": 24.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 46
+    },
+    {
+        "Fecha": "2020-09-29",
+        "Temperatura (\u00b0C)": 24.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 98
+    },
+    {
+        "Fecha": "2020-09-30",
+        "Temperatura (\u00b0C)": 23.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 48
+    },
+    {
+        "Fecha": "2020-10-01",
+        "Temperatura (\u00b0C)": 21.6,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 9
+    },
+    {
+        "Fecha": "2020-10-02",
+        "Temperatura (\u00b0C)": 20.6,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 82
+    },
+    {
+        "Fecha": "2020-10-03",
+        "Temperatura (\u00b0C)": 20.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 96
+    },
+    {
+        "Fecha": "2020-10-04",
+        "Temperatura (\u00b0C)": 20.8,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 21
+    },
+    {
+        "Fecha": "2020-10-05",
+        "Temperatura (\u00b0C)": 21.3,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 10
+    },
+    {
+        "Fecha": "2020-10-06",
+        "Temperatura (\u00b0C)": 21.3,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 66
+    },
+    {
+        "Fecha": "2020-10-07",
+        "Temperatura (\u00b0C)": 21.6,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 23
+    },
+    {
+        "Fecha": "2020-10-08",
+        "Temperatura (\u00b0C)": 20.6,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 71
+    },
+    {
+        "Fecha": "2020-10-09",
+        "Temperatura (\u00b0C)": 21.3,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 66
+    },
+    {
+        "Fecha": "2020-10-10",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 59
+    },
+    {
+        "Fecha": "2020-10-11",
+        "Temperatura (\u00b0C)": 22.3,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 54
+    },
+    {
+        "Fecha": "2020-10-12",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 43
+    },
+    {
+        "Fecha": "2020-10-13",
+        "Temperatura (\u00b0C)": 21.1,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 37
+    },
+    {
+        "Fecha": "2020-10-14",
+        "Temperatura (\u00b0C)": 20.8,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 49
+    },
+    {
+        "Fecha": "2020-10-15",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 73
+    },
+    {
+        "Fecha": "2020-10-16",
+        "Temperatura (\u00b0C)": 21.1,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 95
+    },
+    {
+        "Fecha": "2020-10-17",
+        "Temperatura (\u00b0C)": 21.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 12
+    },
+    {
+        "Fecha": "2020-10-18",
+        "Temperatura (\u00b0C)": 21.3,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 94
+    },
+    {
+        "Fecha": "2020-10-19",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 31
+    },
+    {
+        "Fecha": "2020-10-20",
+        "Temperatura (\u00b0C)": 22.3,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 22
+    },
+    {
+        "Fecha": "2020-10-21",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 69
+    },
+    {
+        "Fecha": "2020-10-22",
+        "Temperatura (\u00b0C)": 21.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 4
+    },
+    {
+        "Fecha": "2020-10-23",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 67
+    },
+    {
+        "Fecha": "2020-10-24",
+        "Temperatura (\u00b0C)": 21.4,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 17
+    },
+    {
+        "Fecha": "2020-10-25",
+        "Temperatura (\u00b0C)": 21.3,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 54
+    },
+    {
+        "Fecha": "2020-10-26",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 17
+    },
+    {
+        "Fecha": "2020-10-27",
+        "Temperatura (\u00b0C)": 21.3,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 10
+    },
+    {
+        "Fecha": "2020-10-28",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 97
+    },
+    {
+        "Fecha": "2020-10-29",
+        "Temperatura (\u00b0C)": 22.3,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 86
+    },
+    {
+        "Fecha": "2020-10-30",
+        "Temperatura (\u00b0C)": 22.5,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 78
+    },
+    {
+        "Fecha": "2020-10-31",
+        "Temperatura (\u00b0C)": 21.4,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 64
+    },
+    {
+        "Fecha": "2020-11-01",
+        "Temperatura (\u00b0C)": 23.6,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 83
+    },
+    {
+        "Fecha": "2020-11-02",
+        "Temperatura (\u00b0C)": 24.2,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 36
+    },
+    {
+        "Fecha": "2020-11-03",
+        "Temperatura (\u00b0C)": 23.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 23
+    },
+    {
+        "Fecha": "2020-11-04",
+        "Temperatura (\u00b0C)": 23.9,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 93
+    },
+    {
+        "Fecha": "2020-11-05",
+        "Temperatura (\u00b0C)": 23.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 80
+    },
+    {
+        "Fecha": "2020-11-06",
+        "Temperatura (\u00b0C)": 23.9,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 37
+    },
+    {
+        "Fecha": "2020-11-07",
+        "Temperatura (\u00b0C)": 23.5,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 80
+    },
+    {
+        "Fecha": "2020-11-08",
+        "Temperatura (\u00b0C)": 24.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 85
+    },
+    {
+        "Fecha": "2020-11-09",
+        "Temperatura (\u00b0C)": 24.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 36
+    },
+    {
+        "Fecha": "2020-11-10",
+        "Temperatura (\u00b0C)": 24.5,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 58
+    },
+    {
+        "Fecha": "2020-11-11",
+        "Temperatura (\u00b0C)": 25.4,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 85
+    },
+    {
+        "Fecha": "2020-11-12",
+        "Temperatura (\u00b0C)": 25.6,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 100
+    },
+    {
+        "Fecha": "2020-11-13",
+        "Temperatura (\u00b0C)": 25.8,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 80
+    },
+    {
+        "Fecha": "2020-11-14",
+        "Temperatura (\u00b0C)": 24.9,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 28
+    },
+    {
+        "Fecha": "2020-11-15",
+        "Temperatura (\u00b0C)": 26.1,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 12
+    },
+    {
+        "Fecha": "2020-11-16",
+        "Temperatura (\u00b0C)": 25.7,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 73
+    },
+    {
+        "Fecha": "2020-11-17",
+        "Temperatura (\u00b0C)": 24.6,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 47
+    },
+    {
+        "Fecha": "2020-11-18",
+        "Temperatura (\u00b0C)": 25.8,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 8
+    },
+    {
+        "Fecha": "2020-11-19",
+        "Temperatura (\u00b0C)": 25.7,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 52
+    },
+    {
+        "Fecha": "2020-11-20",
+        "Temperatura (\u00b0C)": 25.8,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 31
+    },
+    {
+        "Fecha": "2020-11-21",
+        "Temperatura (\u00b0C)": 25.6,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 7
+    },
+    {
+        "Fecha": "2020-11-22",
+        "Temperatura (\u00b0C)": 5.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 99
+    },
+    {
+        "Fecha": "2020-11-23",
+        "Temperatura (\u00b0C)": 25.3,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 81
+    },
+    {
+        "Fecha": "2020-11-24",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 79
+    },
+    {
+        "Fecha": "2020-11-25",
+        "Temperatura (\u00b0C)": 25.7,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 67
+    },
+    {
+        "Fecha": "2020-11-26",
+        "Temperatura (\u00b0C)": 26.1,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 98
+    },
+    {
+        "Fecha": "2020-11-27",
+        "Temperatura (\u00b0C)": 24.5,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 16
+    },
+    {
+        "Fecha": "2020-11-28",
+        "Temperatura (\u00b0C)": 24.9,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 5
+    },
+    {
+        "Fecha": "2020-11-29",
+        "Temperatura (\u00b0C)": 25.6,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 80
+    },
+    {
+        "Fecha": "2020-11-30",
+        "Temperatura (\u00b0C)": 25.7,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 63
+    },
+    {
+        "Fecha": "2020-12-01",
+        "Temperatura (\u00b0C)": 27.9,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 23
+    },
+    {
+        "Fecha": "2020-12-02",
+        "Temperatura (\u00b0C)": 28.9,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 36
+    },
+    {
+        "Fecha": "2020-12-03",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 41
+    },
+    {
+        "Fecha": "2020-12-04",
+        "Temperatura (\u00b0C)": 29.0,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 57
+    },
+    {
+        "Fecha": "2020-12-05",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 94
+    },
+    {
+        "Fecha": "2020-12-06",
+        "Temperatura (\u00b0C)": 27.7,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 97
+    },
+    {
+        "Fecha": "2020-12-07",
+        "Temperatura (\u00b0C)": 28.1,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 80
+    },
+    {
+        "Fecha": "2020-12-08",
+        "Temperatura (\u00b0C)": 29.0,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 64
+    },
+    {
+        "Fecha": "2020-12-09",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 6
+    },
+    {
+        "Fecha": "2020-12-10",
+        "Temperatura (\u00b0C)": 27.7,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 46
+    },
+    {
+        "Fecha": "2020-12-11",
+        "Temperatura (\u00b0C)": 28.1,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 100
+    },
+    {
+        "Fecha": "2020-12-12",
+        "Temperatura (\u00b0C)": 28.4,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 42
+    },
+    {
+        "Fecha": "2020-12-13",
+        "Temperatura (\u00b0C)": 26.5,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 55
+    },
+    {
+        "Fecha": "2020-12-14",
+        "Temperatura (\u00b0C)": 26.9,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 42
+    },
+    {
+        "Fecha": "2020-12-15",
+        "Temperatura (\u00b0C)": 28.2,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 9
+    },
+    {
+        "Fecha": "2020-12-16",
+        "Temperatura (\u00b0C)": 29.0,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 71
+    },
+    {
+        "Fecha": "2020-12-17",
+        "Temperatura (\u00b0C)": 28.2,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 62
+    },
+    {
+        "Fecha": "2020-12-18",
+        "Temperatura (\u00b0C)": 29.0,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 39
+    },
+    {
+        "Fecha": "2020-12-19",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 88
+    },
+    {
+        "Fecha": "2020-12-20",
+        "Temperatura (\u00b0C)": 27.7,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 96
+    },
+    {
+        "Fecha": "2020-12-21",
+        "Temperatura (\u00b0C)": 27.5,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 3
+    },
+    {
+        "Fecha": "2020-12-22",
+        "Temperatura (\u00b0C)": 25.2,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 66
+    },
+    {
+        "Fecha": "2020-12-23",
+        "Temperatura (\u00b0C)": 26.8,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 38
+    },
+    {
+        "Fecha": "2020-12-24",
+        "Temperatura (\u00b0C)": 27.9,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 6
+    },
+    {
+        "Fecha": "2020-12-25",
+        "Temperatura (\u00b0C)": 26.6,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 86
+    },
+    {
+        "Fecha": "2020-12-26",
+        "Temperatura (\u00b0C)": 25.2,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 73
+    },
+    {
+        "Fecha": "2020-12-27",
+        "Temperatura (\u00b0C)": 26.8,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 72
+    },
+    {
+        "Fecha": "2020-12-28",
+        "Temperatura (\u00b0C)": 26.5,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 57
+    },
+    {
+        "Fecha": "2020-12-29",
+        "Temperatura (\u00b0C)": null,
+        "Tipo de nubes": "Despejado",
+        "Cobertura nubosa": 87
+    },
+    {
+        "Fecha": "2020-12-30",
+        "Temperatura (\u00b0C)": 26.7,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 10
+    },
+    {
+        "Fecha": "2020-12-31",
+        "Temperatura (\u00b0C)": 27.8,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 71
+    },
+    {
+        "Fecha": "2021-01-01",
+        "Temperatura (\u00b0C)": 50.0,
+        "Tipo de nubes": "Nublado",
+        "Cobertura nubosa": 57
+    },
+    {
+        "Fecha": "2021-01-02",
+        "Temperatura (\u00b0C)": -10.0,
+        "Tipo de nubes": "Parcialmente nublado",
+        "Cobertura nubosa": 57
+    },
+    {
+        "Fecha": "2021-01-03",
+        "Temperatura (\u00b0C)": 100.0,
+        "Tipo de nubes": "Lluvioso",
+        "Cobertura nubosa": 72
+    }
+]
